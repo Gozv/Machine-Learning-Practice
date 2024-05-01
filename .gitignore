@@ -1,0 +1,7 @@
+# Ignorar el archivo dataset_1.csv
+dataset_1.csv
+
+# Ignorar la carpeta env
+env/
+
+requeriments.txt
